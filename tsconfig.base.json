@@ -17,6 +17,12 @@
     "paths": {
       "@crafting-tests/modules/courses/testing-javascript/fundamental": [
         "modules/courses/testing-javascript/fundamental/src/index.ts"
+      ],
+      "@crafting-tests/modules/courses/testing-javascript/mocking": [
+        "modules/courses/testing-javascript/mocking/src/index.ts"
+      ],
+      "@crafting-tests/modules/shared/custom-runner": [
+        "modules/shared/custom-runner/src/index.ts"
       ]
     }
   },
